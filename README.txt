@@ -1,1 +1,0 @@
-Oyun algoritmaları içeriyor.
