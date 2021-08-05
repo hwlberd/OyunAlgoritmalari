@@ -1,0 +1,15 @@
+C:\Users\em\source\repos\KonsolOyun\KonsolOyun\bin\Debug\netcoreapp3.1\KonsolOyun.exe
+C:\Users\em\source\repos\KonsolOyun\KonsolOyun\bin\Debug\netcoreapp3.1\KonsolOyun.deps.json
+C:\Users\em\source\repos\KonsolOyun\KonsolOyun\bin\Debug\netcoreapp3.1\KonsolOyun.runtimeconfig.json
+C:\Users\em\source\repos\KonsolOyun\KonsolOyun\bin\Debug\netcoreapp3.1\KonsolOyun.runtimeconfig.dev.json
+C:\Users\em\source\repos\KonsolOyun\KonsolOyun\bin\Debug\netcoreapp3.1\KonsolOyun.dll
+C:\Users\em\source\repos\KonsolOyun\KonsolOyun\bin\Debug\netcoreapp3.1\KonsolOyun.pdb
+C:\Users\em\source\repos\KonsolOyun\KonsolOyun\obj\Debug\netcoreapp3.1\KonsolOyun.csprojAssemblyReference.cache
+C:\Users\em\source\repos\KonsolOyun\KonsolOyun\obj\Debug\netcoreapp3.1\KonsolOyun.Form1.resources
+C:\Users\em\source\repos\KonsolOyun\KonsolOyun\obj\Debug\netcoreapp3.1\KonsolOyun.csproj.GenerateResource.cache
+C:\Users\em\source\repos\KonsolOyun\KonsolOyun\obj\Debug\netcoreapp3.1\KonsolOyun.AssemblyInfoInputs.cache
+C:\Users\em\source\repos\KonsolOyun\KonsolOyun\obj\Debug\netcoreapp3.1\KonsolOyun.AssemblyInfo.cs
+C:\Users\em\source\repos\KonsolOyun\KonsolOyun\obj\Debug\netcoreapp3.1\KonsolOyun.csproj.CoreCompileInputs.cache
+C:\Users\em\source\repos\KonsolOyun\KonsolOyun\obj\Debug\netcoreapp3.1\KonsolOyun.dll
+C:\Users\em\source\repos\KonsolOyun\KonsolOyun\obj\Debug\netcoreapp3.1\KonsolOyun.pdb
+C:\Users\em\source\repos\KonsolOyun\KonsolOyun\obj\Debug\netcoreapp3.1\KonsolOyun.genruntimeconfig.cache
